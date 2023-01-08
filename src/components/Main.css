@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:#15031fd7  ;
+}
+
+.header .background img{
+   width: 100%;
+   height: 419px;
+}
+
+.header__logo{
+    height: 9px;
+    margin-right:7px;
+    margin-top: 5px;
+    border-radius: 4px;
+    
+   
+ 
+}
+
+.search-bar{
+    width: 40%;
+    display: flex;
+    margin: 0 21px;
+    align-items: center;
+
+    
+
+}
+
+.header .search{
+    outline: none;
+    background:none;
+   border: none;
+   margin-left: 2rem;
+   width: 250px;
+   height: 40px;
+   border-radius: 1rem;
+    color: white;
+    font-size: 20px;
+    padding: 1.5rem;
+    border: 2px solid #0505057a
+}
+
+
+.content{
+    width: 63%;
+    margin: 3rem auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+}
+
+
+.card{
+    background-color: rgb(154, 11, 236);
+    color: white;
+    position: relative;
+    margin-top: 3rem;
+    padding: 1.5px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.card img{
+    width: 100%;
+    height: 75%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+.card:hover img{
+    transform: scale(1.1);
+}
+
+.card .title{
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.card::after,
+.card::before{
+    content: "";
+    position: absolute;
+    background: rgb(43, 4, 66); 
+    z-index: -1;
+}
+
+.card::before{
+    bottom: -2em;
+    left: 0;
+    width: 75%;
+    height: 3em;
+}
+
+.card::after{
+    bottom: -2em;
+    right: 0.9em;
+    width: 40%;
+    height: 5em;
+    transform: rotate(-38deg);
+    box-sizing: 1rem;
+}
+
+.content__sp{
+    width: 65%;
+    margin-left: 190px ;
+    height: 7600px;
+    background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
+    color: white;
+    font-size: 1.3rem;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.right-box{
+    flex-basis: 20% ;
+}
+
+.left-box{
+    flex-basis: 47%;
+}
+
+
+.content__sp img{
+    width: 200px;
+    height: 310px;
+    border: 1px solid white;
+    box-shadow: 0 5px 5px 5px rgba(235, 235, 235, 0.2);
+    transform: rotate(20deg);
+    transition: 0.5s;
+}
+
+
+
+.content__sp img:hover{
+    transform: rotate(0deg);
+}
+
+.search-bar{
+
+    gap:2rem;
+}
+
+
+.search-bar > button{
+
+    padding: 7px 18px;
+    border-radius: 20px;
+    outline: none;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
