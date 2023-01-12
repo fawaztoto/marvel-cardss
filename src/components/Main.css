@@ -108,14 +108,14 @@ p{
     bottom: -2em;
     right: 0.9em;
     width: 40%;
-    height: 5em;
+    height: 4em;
     transform: rotate(-38deg);
     box-sizing: 1rem;
 }
 
 .content__sp{
     width: 65%;
-    margin-left: 190px ;
+    margin-left: 180px ;
     height: 7600px;
     background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
     color: white;
@@ -131,13 +131,13 @@ p{
 }
 
 .left-box{
-    flex-basis: 47%;
+    flex-basis: 45%;
 }
 
 
 .content__sp img{
-    width: 200px;
-    height: 310px;
+    width: 199px;
+    height: 309px;
     border: 1px solid white;
     box-shadow: 0 5px 5px 5px rgba(235, 235, 235, 0.2);
     transform: rotate(20deg);
@@ -158,7 +158,7 @@ p{
 
 .search-bar > button{
 
-    padding: 7px 18px;
+    padding: 6px 16px;
     border-radius: 20px;
     outline: none;
     background-color: blueviolet;
