@@ -127,7 +127,7 @@ p{
 }
 
 .right-box{
-    flex-basis: 20% ;
+    flex-basis: 18% ;
 }
 
 .left-box{
@@ -158,8 +158,8 @@ p{
 
 .search-bar > button{
 
-    padding: 3px 10px;
-    border-radius: 14px;
+    padding: 2px 8px;
+    border-radius: 10px;
     outline: none;
     background-color: blueviolet;
     color: white;
