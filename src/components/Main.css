@@ -136,8 +136,8 @@ p{
 
 
 .content__sp img{
-    width: 198px;
-    height: 306px;
+    width: 196px;
+    height: 303px;
     border: 1px solid white;
     box-shadow: 0 3px 3px 3px rgba(235, 235, 235, 0.2);
     transform: rotate(20deg);
@@ -158,7 +158,7 @@ p{
 
 .search-bar > button{
 
-    padding: 2px 6px;
+    padding: 2px 3px;
     border-radius: 10px;
     outline: none;
     background-color: blueviolet;
