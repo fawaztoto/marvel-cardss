@@ -9,12 +9,12 @@ body{
 
 .header .background img{
    width: 100%;
-   height: 409px;
+   height: 407px;
 }
 
 .header__logo{
     height: 5px;
-    margin-right:4px;
+    margin-right:3px;
     margin-top: 2px;
     border-radius: 2px;
     
@@ -37,18 +37,18 @@ body{
     background:none;
    border: none;
    margin-left: 2rem;
-   width: 247px;
-   height: 40px;
+   width: 244px;
+   height: 37px;
    border-radius: 1rem;
     color: white;
     font-size: 20px;
     padding: 1.5rem;
-    border: 2px solid #0505057a
+    border: 1px solid #0505057a
 }
 
 
 .content{
-    width: 57%;
+    width: 54%;
     margin: 3rem auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
