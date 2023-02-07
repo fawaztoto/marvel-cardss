@@ -9,11 +9,11 @@ body{
 
 .header .background img{
    width: 100%;
-   height: 407px;
+   height: 405px;
 }
 
 .header__logo{
-    height: 5px;
+    height: 3px;
     margin-right:3px;
     margin-top: 2px;
     border-radius: 2px;
@@ -41,7 +41,7 @@ body{
    height: 37px;
    border-radius: 1rem;
     color: white;
-    font-size: 20px;
+    font-size: 19px;
     padding: 1.5rem;
     border: 1px solid #0505057a
 }
@@ -67,7 +67,7 @@ body{
 p{
     color: white;
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 
