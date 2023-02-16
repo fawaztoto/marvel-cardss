@@ -41,14 +41,14 @@ body{
    height: 37px;
    border-radius: 1rem;
     color: white;
-    font-size: 19px;
+    font-size: 15px;
     padding: 1.5rem;
     border: 1px solid #0505057a
 }
 
 
 .content{
-    width: 52%;
+    width: 50%;
     margin: 3rem auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -73,7 +73,7 @@ p{
 
 .card img{
     width: 100%;
-    height: 68%;
+    height: 66%;
     transition: 0.5s;
     cursor: pointer;
 }
@@ -85,7 +85,7 @@ p{
 
 .card .title{
     text-align: center;
-    font-size: 7px;
+    font-size: 6x;
 }
 
 
