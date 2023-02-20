@@ -9,13 +9,13 @@ body{
 
 .header .background img{
    width: 100%;
-   height: 404px;
+   height: 403px;
 }
 
 .header__logo{
     height: 3px;
     margin-right:3px;
-    margin-top: 2px;
+    margin-top: 1px;
     border-radius: 2px;
     
    
@@ -23,7 +23,7 @@ body{
 }
 
 .search-bar{
-    width: 32%;
+    width: 31%;
     display: flex;
     margin: 0 20px;
     align-items: center;
@@ -67,7 +67,7 @@ body{
 p{
     color: white;
     text-align: center;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 
