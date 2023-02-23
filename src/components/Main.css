@@ -37,18 +37,18 @@ body{
     background:none;
    border: none;
    margin-left: 2rem;
-   width: 243px;
-   height: 35px;
+   width: 241px;
+   height: 33px;
    border-radius: 1rem;
     color: white;
-    font-size: 15px;
+    font-size: 13px;
     padding: 1.5rem;
     border: 1px solid #0505057a
 }
 
 
 .content{
-    width: 50%;
+    width: 48%;
     margin: 3rem auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
