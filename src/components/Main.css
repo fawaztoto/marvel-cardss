@@ -48,16 +48,16 @@ body{
 
 
 .content{
-    width: 48%;
-    margin: 3rem auto;
+    width: 46%;
+    margin: 2rem auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 2rem;
+    grid-gap: 1rem;
 }
 
 
 .card{
-    background-color: rgb(154, 11, 236);
+    background-color: rgb(152, 9, 234);
     color: white;
     position: relative;
     margin-top: 3rem;
