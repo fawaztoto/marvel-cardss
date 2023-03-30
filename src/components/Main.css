@@ -107,15 +107,15 @@ p{
 .card::after{
     bottom: -2em;
     right: 0.9em;
-    width: 40%;
+    width: 38%;
     height: 4em;
     transform: rotate(-38deg);
     box-sizing: 1rem;
 }
 
 .content__sp{
-    width: 65%;
-    margin-left: 180px ;
+    width: 60%;
+    margin-left: 178px ;
     height: 7600px;
     background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
     color: white;
