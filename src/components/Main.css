@@ -115,8 +115,8 @@ p{
 
 .content__sp{
     width: 60%;
-    margin-left: 178px ;
-    height: 7600px;
+    margin-left: 176px ;
+    height: 7599px;
     background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
     color: white;
     font-size: 1.3rem;
@@ -159,7 +159,7 @@ p{
 .search-bar > button{
 
     padding: 2px 3px;
-    border-radius: 10px;
+    border-radius: 8px;
     outline: none;
     background-color: blueviolet;
     color: white;
